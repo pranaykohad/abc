@@ -20,7 +20,7 @@ public class ApiDemoApplication {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(ApiDemoApplication.class, args);
-		System.out.println("project started..............");
+		System.out.println("project started..............")
 	}
 	
 	
